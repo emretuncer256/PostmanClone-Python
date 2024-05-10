@@ -11,9 +11,9 @@ Postman Clone is a user-friendly interface that replicates the functionalities o
 
 ## Using The App
 1. Download the executable file from the release section.
-2. When application launches, it should look like this:
+2. When application launches, it should look like this:<br>
 ![Postman Clone App ready to run](images/Screenshot-1.png)
-3. Fill in your API URL and hit Get:
+3. Fill in your API URL and hit Get:<br>
 ![Postman Clone App results](images/Screenshot-2.png)
 
 ## Upcoming Changes
